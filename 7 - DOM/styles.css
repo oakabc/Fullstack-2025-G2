@@ -1,0 +1,10 @@
+.toGreen {
+   background-color: green;
+}
+.invisible {
+   visibility: hidden;
+}
+
+.Big {
+    font-size: 10rem;
+}
